@@ -1,4 +1,4 @@
-# Creating a model that detects Pneumonia by using chest xrays
+# Creating a model that detects Pneumonia in chest xrays
 # AI in Healthcare
   AI in healthcare will always be the reason I started to dig in this field of Artificial Intelligence. The scope is huge and the impact you make in the world, too. Making a prototype to solve medical problems will always be a reason to be proud of.
   
