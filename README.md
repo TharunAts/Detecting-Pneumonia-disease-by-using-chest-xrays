@@ -32,7 +32,7 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/
 The project is broken down into multiple steps:
 
 Load and preprocess the image dataset
-Train the image classifier on your dataset
+.Train the image classifier on your dataset
 .Use the trained classifier to predict image content.
 Everything you need to recreate this project is on the jupyter notebook.
 
