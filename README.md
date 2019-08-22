@@ -23,7 +23,7 @@ I will use the Chest X-Ray Images (Pneumonia) Dataset. You can find this dataset
 
 Chest X-ray images were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients’ routine clinical care.
 
-My model achieved an accuracy of 80% on test data with 78% recall. I will upload the images and classify them into 2 categories: Normal and Pneumonia.
+My model achieved an accuracy of 80% on test data with 78% recall. Now you can classify the images into 2 categories: Normal and Pneumonia by using this model.
 
 You can get the dataset here:
 
