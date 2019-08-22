@@ -4,7 +4,7 @@
   
 It’s unbelievable how AI is improving the healthcare field, specifically in medical diagnosis. AI will improve the way Doctors diagnose and treat diseases. It’s not a competition but an opportunity to join forces!
 
-This time, detecting Pneumonia in Chest X-Ray images, is a great experience. I will show you two ways to detect Pneumonia in Chest X-Rays: Using a Convolutional Neural Network with Tensorflow..
+This time, detecting Pneumonia in Chest X-Ray images, is a great experience. I will  detect Pneumonia in Chest X-Rays: Using a Convolutional Neural Network with Tensorflow.
 # What is Pneumonia?
   According to the American Lung Association, Pneumonia is an infection that inflames your lungs’ air sacs (alveoli). The air sacs may fill up with fluid or pus, causing symptoms such as a cough, fever, chills and trouble breathing.
 # Pneumonia Symptoms
@@ -16,8 +16,7 @@ Shortness of breath
 Rapid, shallow breathing
 Sharp or stabbing chest pain that gets worse when you breathe deeply or cough
 Loss of appetite, low energy, and fatigue
-Nausea and vomiting, especially in small children
-Confusion, especially in older people
+Nausea and vomiting, especially in small children.
 # Chest X-Ray Images (Pneumonia)
 I will use the Chest X-Ray Images (Pneumonia) Dataset. You can find this dataset at Kaggle. It’s organized into 3 folders (train, test and val sets) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
 
@@ -33,8 +32,8 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/
 # Instructions
 The project is broken down into multiple steps:
 
-Load and preprocess the image dataset
-.Train the image classifier on your dataset
+Analyse and preprocess the image dataset
+.Creating an image classifier using dataset
 .Use the trained classifier to predict image content.
 Everything you need to recreate this project is on the jupyter notebook.
 
